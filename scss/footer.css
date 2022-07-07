@@ -1,0 +1,66 @@
+footer .gray-box {
+  background-color: #444444;
+  padding: 12px; }
+footer .copyright-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 12px;
+  font-family: "montserratlight"; }
+  footer .copyright-box .right ul {
+    padding: 0;
+    margin: 0; }
+    footer .copyright-box .right ul li {
+      display: inline;
+      list-style: none;
+      padding: 0 10px; }
+      footer .copyright-box .right ul li a {
+        color: rgba(255, 255, 255, 0.8); }
+        footer .copyright-box .right ul li a:hover {
+          color: #ffffff; }
+footer .social-box {
+  background: url(../images/footer-bg.png) no-repeat;
+  width: 100%;
+  height: 242px;
+  background-size: cover;
+  text-align: center;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  footer .social-box .social-content .social-list {
+    padding-top: calc(100% - 75%); }
+    footer .social-box .social-content .social-list ul {
+      padding: 0;
+      margin: 0; }
+      footer .social-box .social-content .social-list ul li {
+        list-style: none;
+        padding: 0 15px 40px 15px;
+        margin: 0;
+        display: inline-block;
+        position: relative; }
+        footer .social-box .social-content .social-list ul li .img-top {
+          display: none;
+          position: absolute;
+          top: 0;
+          left: 15px;
+          z-index: 99; }
+        footer .social-box .social-content .social-list ul li:hover .img-top {
+          display: inline; }
+  footer .social-box .social-content .link-list ul {
+    padding: 0;
+    margin: 0; }
+    footer .social-box .social-content .link-list ul li {
+      list-style: none;
+      display: inline;
+      font-size: 16px;
+      font-family: "montserratlight";
+      color: #ffffff;
+      padding: 0 15px; }
+      footer .social-box .social-content .link-list ul li a {
+        color: #ffffff; }
+        footer .social-box .social-content .link-list ul li a:hover {
+          color: rgba(255, 255, 255, 0.5); }
+
+/*# sourceMappingURL=footer.css.map */

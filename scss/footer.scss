@@ -1,0 +1,77 @@
+// variable starts here
+
+$montserrat:'montserratregular';
+$montserrat-light:'montserratlight';
+$montserrat-medium:'montserratmedium';
+$montserrat-semibold:'montserratsemibold';
+
+
+$text-size-18: 18px;
+$text-size-15: 15px;
+
+$line-height-15: 26px;
+$text-bold: bold;
+$text-center:center;
+
+$black-text :#232323;
+$white-text :#ffffff;
+
+
+
+//footer classes starts here
+footer{
+.gray-box{ background-color:#444444; padding:12px;}
+.copyright-box {display:flex; align-items:center; justify-content: space-between; color:rgba( 256, 256, 256, 0.8); font-size:12px; font-family:$montserrat-light;
+    .left{ }
+    .right { 
+        ul { padding:0; margin:0;
+            li{ display:inline; list-style:none; padding:0 10px;
+                a{ color:rgba( 256, 256, 256, 0.8);
+                    &:hover{ color:$white-text; }  
+                }
+            }
+        }
+    }
+    
+}
+
+
+
+.social-box{ background: url(../images/footer-bg.png)no-repeat; width:100%; height:242px; background-size:cover; text-align:$text-center; margin:0px auto; display: flex;
+    align-items: center; justify-content: center;
+    .social-content { 
+    
+     .social-list { padding-top: calc(100% - 75%);
+ul{ padding:0; margin:0;
+li{ list-style:none; padding:0 15px 40px 15px; margin:0; display:inline-block; position: relative;
+.img-top {  display: none; position: absolute; top: 0; left: 15px; z-index: 99;              
+
+} 
+
+&:hover .img-top { display: inline;  }
+}
+}
+}
+
+    .link-list{
+    ul { padding:0; margin:0;
+            li{ list-style:none; display:inline; font-size:16px; font-family:$montserrat-light; color:$white-text; padding: 0 15px;
+                a{ color:$white-text;
+                    &:hover{ color:rgba( 256, 256, 256, 0.5); }
+                
+                }
+        
+        }
+        }
+    
+    }
+    
+    
+    
+    } 
+
+}
+
+
+}
+

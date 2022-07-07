@@ -1,0 +1,483 @@
+
+@media only screen and (min-width:2559px) and (max-width:2560px) {
+    
+.gray-container .step { background-position: 38% 50%; background-size: 625px 375px; }    
+.gray-container-light .step { background-position: 38% 50%; background-size: 625px 375px; }    
+    
+}
+
+
+@media only screen and (min-width:1599px) and (max-width:1600px) {
+    
+.gray-container .step { background-position: 25% 50%; background-size: 600px 360px; }    
+.gray-container-light .step { background-position: 25% 50%; background-size: 600px 360px; }    
+    
+}
+
+
+
+@media only screen and (min-width:1439px) and (max-width:1440px) {
+    
+.gray-container .step { background-position: 21% 50%; background-size: 600px 360px; }    
+.gray-container-light .step { background-position: 21% 50%; background-size: 600px 360px; }    
+    
+}
+
+
+
+@media only screen and (min-width:1365px) and (max-width:1366px) {
+    
+.gray-container .step { background-position: 20% 50%; background-size: 600px 360px; }    
+.gray-container-light .step { background-position: 20% 50%; background-size: 600px 360px; }    
+    
+}
+
+
+@media only screen and (min-width:1279px) and (max-width:1280px) {
+    
+.gray-container .step { background-position: 15% 50%; background-size: 600px 360px; }    
+.gray-container-light .step { background-position: 15% 50%; background-size: 600px 360px; }    
+     
+}
+
+
+@media only screen and (min-width:1025px) and (max-width:1141px) {
+    
+.gray-container .step { background-position: 5% 50%; background-size: 600px 360px; }    
+.gray-container-light .step { background-position: 5% 50%; background-size: 600px 360px; }    
+ 
+}
+
+
+@media only screen and (min-width:992px) and (max-width:1024px) {
+    
+.gray-container .step { background-position: 5% 50%; background-size: 550px 330px; }    
+.gray-container-light .step { background-position: 5% 50%; background-size: 550px 330px;} 
+      
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    
+.gray-container .step { background-position: 5% 50%; background-size: 450px 270px;}    
+.gray-container-light .step { background-position: 5% 50%; background-size: 450px 270px;} 
+    
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:2559px) and (max-width:2560px) {
+    
+.gray-container-parent .step { background-position: 38% 50%; background-size: 641px 595px; }    
+.gray-container-light-parent .step { background-position: 38% 50%; background-size: 641px 595px; }    
+    
+}
+
+
+@media only screen and (min-width:1599px) and (max-width:1600px) {
+    
+.gray-container-parent .step { background-position: 25% 50%; background-size: 600px 555px; }    
+.gray-container-light-parent .step { background-position: 25% 50%; background-size: 600px 555px; }    
+    
+}
+
+
+
+
+
+
+@media only screen and (min-width:1439px) and (max-width:1440px) {
+    
+.gray-container-parent .step { background-position: 21% 50%; background-size: 600px 555px; }    
+.gray-container-light-parent .step { background-position: 21% 50%; background-size: 600px 555px; }    
+    
+}
+
+
+
+@media only screen and (min-width:1365px) and (max-width:1366px) {
+    
+.gray-container-parent .step { background-position: 20% 50%; background-size: 600px 555px; }    
+.gray-container-light-parent .step { background-position: 20% 50%; background-size: 600px 555px; }    
+    
+}
+
+
+
+
+@media only screen and (min-width:1279px) and (max-width:1280px) {
+    
+.gray-container-parent .step { background-position: 15% 50%; background-size: 600px 555px; }    
+.gray-container-light-parent .step { background-position: 15% 50%; background-size: 600px 555px; }    
+     
+}
+
+
+@media only screen and (min-width:1025px) and (max-width:1141px) {
+    
+.gray-container-parent .step { background-position: 5% 50%; background-size: 600px 555px; }    
+.gray-container-light-parent .step { background-position: 5% 50%; background-size: 600px 555px; }    
+ 
+}
+
+
+
+
+@media only screen and (min-width:992px) and (max-width:1024px) {
+    
+.gray-container-parent .step { background-position: 5% 50%; background-size: 550px 510px; }    
+.gray-container-light-parent .step { background-position: 5% 50%; background-size: 550px 510px;} 
+      
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    
+.gray-container-parent .step { background-position: 5% 50%; background-size: 450px 417px;}    
+.gray-container-light-parent .step { background-position: 5% 50%; background-size: 450px 417px;} 
+    
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:992px) and (max-width:1139px) {
+
+.h1{ font-size:40px; line-height:48px;}
+.h2{ font-size:32px; line-height:40px;}
+.h3{ font-size:18px; line-height:26px;}
+
+.p{ font-size:14px; line-height:22px; }
+
+.light-gray-box { padding:80px 40px;} 
+    
+
+.offers .pkg-listing ul li .pkg-card { padding: 20px; width:95%;}   
+.offers .pkg-listing ul li .pkg-card .p {  font-size:14px; line-height:22px; }
+.offers .pkg-listing ul li .pkg-card .dollar { font-size: 65px;  padding: 20px 0 15px 0; }   
+.offers .pkg-listing ul li .pkg-card .specs ul li { font-size:14px; line-height:22px; padding: 5px 0; margin-bottom:0;} 
+ 
+.trustee-list .trustee-slider .trustee-box .red-gray-box .red-box { padding:40px 10px;} 
+    
+  
+   
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    
+.h1{ font-size:32px; line-height:40px;}
+.h2{ font-size:28px; line-height:36px;}
+.h3{ font-size:18px; line-height:26px;}
+
+.p{ font-size:14px; line-height:22px; } 
+    
+ 
+    
+.offers .pkg-listing ul li .pkg-card { padding: 20px; width:95%;}   
+.offers .pkg-listing ul li .pkg-card .p {  font-size:14px; line-height:22px; }
+.offers .pkg-listing ul li .pkg-card .dollar { font-size: 65px;  padding: 20px 0 15px 0; }   
+.offers .pkg-listing ul li .pkg-card .specs ul li { font-size:14px; line-height:22px; padding: 5px 0; margin-bottom:0;}     
+    
+    
+.light-gray-box { padding:80px 20px;}    
+.trustee-list .trustee-slider .trustee-box .red-gray-box .red-box { padding:50px 10px 10px;}   
+.trustee-list .trustee-slider .trustee-box .red-gray-box .red-box .copy { padding:10px; font-size:14px;}
+    
+    
+.bg-box .content-box .left { width:40%;}  
+.bg-box .content-box .right { float: right; padding-top: calc(100% - 50%); position: relative; width: 60%;}
+/*.bg-box .content-box .right img {}*/
+/*.bg-box .content-box .right .rt-pic { width:70%;} */
+    
+ .gray-container-parent .para-sector .right .store span img {  width: 100%; max-width:117px;}   
+    
+}
+
+
+
+
+
+
+@media only screen and (max-width:767px) {
+    
+.h1{ font-size:30px; line-height:38px;}
+.h2{ font-size:24px; line-height:32px;}
+.h3{ font-size:16px; line-height:24px;}
+
+.p{ font-size:14px; line-height:22px; } 
+.get-start-click { font-size:15px; }   
+.get-start-click a { padding:10px 12px;} 
+.download-app { font-size:15px; }   
+.download-app a { padding: 10px 12px;}   
+    
+ 
+
+.mob-step { display:block; }    
+.mob-step1 { display:block; }   
+    
+    
+footer .copyright-box { font-size:11px;}
+footer .social-box .social-content .link-list ul li { font-size:14px;} 
+footer .social-box { height:140px;}
+footer .social-box .social-content .social-list { padding-top: calc(100% - 95%);}    
+    
+    
+    
+.light-gray-box { padding:50px 20px;}     
+.light-gray-box .features-listing ul li{width: calc(50% - 5px); margin-bottom: 30px;}   
+.light-gray-box .features-listing ul li li .card-box .p { font-size:14px; line-height:22px; }
+
+    
+.offers .pkg-listing ul li .pkg-card .h4 { font-size: 18px; line-height:26px;}
+.offers .pkg-listing ul li .pkg-card .p {  font-size:14px; line-height:22px; }
+    
+.offers .pkg-listing ul li .pkg-card .dollar { font-size: 60px;  padding: 20px 0 15px 0; }   
+.offers .pkg-listing ul li .pkg-card .specs ul li { font-size:14px; line-height:22px; padding: 5px 0; margin-bottom:0;}    
+ 
+    
+.offers .pkg-listing ul li .pkg-card {  width:95%; padding:25px;  min-height:450px; }    
+
+    
+.trustee-slider .trustee-box {  opacity: 1; } 
+.trustee-list .trustee-slider .trustee-box .red-gray-box .red-box { padding:40px 20px;}       
+ 
+    .old-box { margin-bottom:80px;} 
+    
+    .how-it-works .hiw-first { display: block;} 
+    .how-it-works .hiw-first img { width:100%; } 
+    
+    .how-it-works .hiw-second {flex-wrap:wrap}
+    .how-it-works .hiw-second img { width:100%; display: block;}
+    
+    .how-it-works .hiw-third { display: block;}
+    .how-it-works .hiw-third img { width:100%; display: block;}
+    
+    .how-it-works .hiw-first .typo { padding:20px;}
+    .how-it-works .hiw-second .typo { padding:20px; order:1;}
+    .how-it-works .hiw-third .typo { padding:20px;}
+    
+    
+    
+    
+    .hpy-life { display:block;}   
+    .hpy-life .advantages ul li { margin-left:0; margin-bottom:30px;}
+    .hpy-life .advantages ul li .bullets {  flex-wrap: wrap; justify-content: center; }
+    .hpy-life .advantages ul li .bullets .right { padding-right:0;}
+    
+    .advantages { margin:50px 0 ;}
+    .hpy-life .h3 { text-align:center; padding:30px 0 0px 0;}
+    .hpy-life .advantages ul li .bullets .right .p{ text-align: center;}
+    .hpy-life .helping-points ul li { text-align: center; padding:10px 0; margin:0;}
+    .hpy-life .helping-points ul li:before { content:none;}
+    .hpy-life .h2 { text-align: center; }
+    .hpy-life .p { text-align: center; }
+    
+    
+    .faq-tab .tabbing .school { display:block; } 
+    .faq-tab .tabbing .parents { display:block; }
+    .faq-tab .tabbing .parents .left { margin-bottom: 10px;}
+    .faq-tab .tabbing .school .left { margin-bottom: 10px;}
+    
+    .faq-tab .tabbing .nav-tabs > li > a { font-size:18px;}
+    .nav>li>a { padding:10px;}
+    .tab-content { padding: 50px 0 50px 0; }
+    .tab-content ul li .h3 span { font-size:25px;}
+    
+ 
+    .bg-box .content-box .left { width:40%; padding-top: calc(100% - 77%);}
+    .bg-box .content-box .right { float:none; text-align: center; width:80%; margin:0px auto;}
+/*    .bg-box .content-box .right img { width: 77%;}*/
+    
+/*    .bg-box .content-box .right .rt-pic { width:77%;} */
+    
+    
+    
+    
+    .key-features-box .school-parent .left .school { top: 50%;  left: 0;  transform: translateY(-50%);  width: 100%;  text-align: center; }
+    .key-features-box .school-parent .left .school .feature-school { font-size: 13px; padding:5px; }
+    
+    
+    .key-features-box .school-parent .right .parent { top: 50%;  left: 0;  transform: translateY(-50%);  width: 100%;  text-align: center; }
+    .key-features-box .school-parent .right .parent .feature-parent { font-size: 13px; padding:5px; }
+    
+    
+    
+    .webapp .col-xs-12.col-sm-6:last-child { order:0; text-align: center;}
+    .webapp .col-xs-12.col-sm-6:first-child { order:1; text-align: center;}
+    
+    
+    .mobiapp .col-xs-12.col-sm-6:last-child { order:0; text-align: center;}
+    .mobiapp .col-xs-12.col-sm-6:first-child { order:1; text-align: center;}
+    
+    
+    .mobiapp .store { justify-content:center;}
+    .gray-container-parent .para-sector .right .store { justify-content:center;}
+
+    
+    .gray-container{ padding:50px 0}
+    .gray-container-light{ padding:50px 0}
+    
+    .gray-container .para-sector { display:block;}
+    .gray-container .para-sector .left { width:100%;}
+    .gray-container .para-sector .right { padding: 30px 0; }
+    
+    
+    .gray-container-light .para-sector { display:block;}
+    .gray-container-light .para-sector .left { width:100%;}
+    .gray-container-light .para-sector .right { padding: 30px 0; }
+    
+    
+    .gray-container .step { display:none;}
+    .gray-container-light .step { display:none;}
+    
+    .gray-container .para-sector .right { text-align: center; padding: 10px 0;}
+    .gray-container-light .para-sector .right { text-align: center; padding: 10px 0; }
+    
+    .gray-container .h2 { font-size: 24px; line-height: 32px; }
+    .gray-container-light .h2 { font-size: 24px; line-height: 32px; }
+    
+    
+    
+    .key-features-box-mob { display: block;}
+    .key-features-box { display: none;}
+    
+    .key-features-box-mob .school-parent-mob { display:block;}
+    
+    .key-features-box-mob .school-parent-mob .left-mob .school-mob .feature-school-mob { font-size:14px;}
+    .key-features-box-mob .school-parent-mob .right-mob .parent-mob .feature-parent-mob { font-size:14px;}
+    
+    
+    .spotlight img { object-fit: cover; height: 400px; }
+    
+    .section-space { margin: 40px 0;}
+    .contact {  margin: 0;}
+    
+    
+    
+    
+    .gray-container-parent{ padding:20px 0}
+    .gray-container-light-parent{ padding:20px 0}
+    
+    .gray-container-parent .para-sector { display:block;}
+    .gray-container-parent .para-sector .left { width:100%;}
+    .gray-container-parent .para-sector .right { padding: 30px 0; }
+    
+    
+    .gray-container-light-parent .para-sector { display:block;}
+    .gray-container-light-parent .para-sector .left { width:100%;}
+    .gray-container-light-parent .para-sector .right { padding: 30px 0; }
+    
+    
+    .gray-container-parent .step { display:none;}
+    .gray-container-light-parent .step { display:none;}
+    
+    .gray-container-parent .para-sector .right { text-align: center; padding: 10px 0;}
+    .gray-container-light-parent .para-sector .right { text-align: center; padding: 10px 0; }
+    
+    .gray-container-parent .h2 { font-size: 24px; line-height: 32px; }
+    .gray-container-light-parent .h2 { font-size: 24px; line-height: 32px; }
+    
+    
+    
+    
+    
+  .mobiapp .app {  text-align: center; }  
+  .webapp .app {  text-align: center; }    
+   
+    
+    
+
+    
+    
+}
+
+
+
+
+
+@media only screen and (max-width:639px) {
+
+footer .copyright-box { font-size:11px;}
+footer .copyright-box { display:block; }
+footer .copyright-box .right { margin-top:10px;}
+footer .copyright-box .right ul li:first-child{ padding-left:0;}
+    
+
+.light-gray-box .features-listing ul li { width:100%; margin-bottom: 30px;}      
+
+    
+.offers .pkg-listing ul li { width:calc(50% - 5px);  margin-bottom: 30px; }   
+.offers .pkg-listing ul li .pkg-card { width:90%; padding:25px;} 
+    
+.download-app { display:inline-block; margin-right: 10px;}
+    
+    
+    .bg-box .content-box .left {  width: 50%; padding-top: calc(100% - 82%);} 
+    .bg-box { height:545px;}
+}
+
+
+
+@media only screen and (max-width:567px) { 
+ 
+    .old-new-box .row { display:block;}
+    .divider { display:none;}
+    
+   .bg-box .content-box .left { width: 90%; padding-top: calc(100% - 60%); }  
+    .bg-box { height:487px;}
+    
+}
+
+
+
+
+
+
+@media only screen and (max-width:479px) { 
+.offers .pkg-listing ul li { width:100%;  margin-bottom: 30px; }   
+.offers .pkg-listing ul li .pkg-card { width:100%; padding:25px;} 
+    
+   .bg-box .content-box .left { width: 90%; padding-top: calc(100% - 77%); margin-bottom: 55px; }  
+    .bg-box { height:487px;}   
+
+}

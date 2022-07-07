@@ -1,0 +1,337 @@
+// variable starts here
+
+$montserrat:'montserratregular';
+$montserrat-light:'montserratlight';
+$montserrat-medium:'montserratmedium';
+$montserrat-semibold:'montserratsemibold';
+
+
+$text-size-18: 18px;
+$text-size-15: 15px;
+
+$line-height-15: 26px;
+$text-bold: bold;
+$text-center:center;
+
+$black-text :#232323;
+$white-text :#ffffff;
+.animate-1 { transition: all .1s ease-in-out; -webkit-transition: all .1s ease-in-out; -moz-transition: all .1s ease-in-out; -ms-transition: all .1s ease-in-out; -o-transition: all .1s ease-in-out;}
+
+
+
+
+
+
+//faq tabbing
+
+.faq-tab{
+    
+    .h2 { }
+    .P{ padding:0 0 80px 0;}
+    
+    
+    .tabbing {
+           .nav-tabs { border:none;
+              
+              > li  { padding:20px 20px 0 20px; margin:0;}
+              > li > a { border:none; font-size:24px; color:#444444; font-family:$montserrat; }
+              > li.active > a { border-bottom:solid 4px #f6921e;}
+              > li.active > a:focus {  border-bottom:solid 4px #f6921e;}
+              > li.active > a:hover {  border-bottom:solid 4px #f6921e;}
+              > a:focus { background-color: transparent;}
+              > a:hover { background-color: transparent;}
+        
+        }
+        .school { display:flex; align-items: flex-end; 
+            .left{ }
+            .right{margin: 0 0 -10px 10px }
+        
+        } 
+        .parents { display:flex;  align-items: flex-end;
+            .left{ }
+            .right{ margin: 0 0 -10px 10px; }
+         
+        } 
+    }
+    
+}
+
+.faq-tab .tabbing ul.nav-tabs {  display: inline-block; border-bottom:solid 1px #cccccc; margin:0; padding:0; }
+.faq-tab .tabbing .nav-tabs > li:after.active { content:""; position:absolute; left:0; top:0;}
+.nav>li>a:focus, .nav>li>a:hover { background-color: transparent; }
+
+.tab-content { padding:100px 0 0 0; text-align: left;
+
+    ul{ margin:0; padding:0;
+        li{ display:list-item; border-bottom:solid 1px #cccccc; margin:15px 0; padding:15px 0; 
+        
+        .h3{ padding: 0 0 10px 0;
+            span{ color:#bdbdbd; font-size:30px; font-family:$montserrat; margin-right: 10px;
+               }
+            }
+        .p{ margin-left: 28px; }
+            &:last-child{ border-bottom:none; }  
+        }
+        }
+
+}
+
+
+
+
+
+
+//contact us
+
+
+
+.contact{ margin-top:40px;margin-bottom:40px;
+
+.form-box { 
+    
+    .form-list{ 
+ul{ padding:0; margin:0; float: none;  display: block;
+li{ display:inline-block; width:100%; list-style:none; padding:20px 20px 20px 0; position:relative; font-size:$text-size-15; font-family:$montserrat-light; color:#232323;
+input[type="text"]{ background-color: transparent; border-bottom:solid 1px #c7c7c7;  padding: 0 0 8px 0; color:#232323; }
+}
+}
+        
+       
+         .error { font-size:11px; font-family:$montserrat-light; color:#d7332f; display:none;  }  
+          
+}
+}
+
+
+.address-box {
+    ul{ margin:0; padding:0;
+        li{ list-style:none; width:100%; list-style:none; padding:20px 20px 20px 0; position:relative; font-size:$text-size-18; font-family:$montserrat-light; color:#232323; line-height:26px;
+            .details { display:flex;
+                .left { margin-right:30px;}
+                .right { 
+                    a{ color:#232323; }
+                }
+            }
+        }
+    }
+    
+}
+
+    
+    
+    
+.social-box { padding-top: calc(100% - 80%);
+ul{ padding:0; margin:0;
+li{ list-style:none; padding:0 30px 40px 0px; margin:0; display:inline-block; position: relative;
+.img-top {  display: none; position: absolute; top: 0; left: 0; z-index: 99;              
+
+} 
+
+&:hover .img-top { display: inline;  }
+}
+}
+}    
+    
+    
+
+}
+
+
+
+
+
+//how to setup
+
+.hts-faq { padding:50px 0 50px 0; text-align: left;
+
+    ul{ margin:0; padding:0;
+        li{ display:list-item; border-bottom:solid 1px #cccccc; margin:15px 0; padding:15px 0; 
+        
+        .h3{ padding: 0 0 10px 0;
+            span{ color:#bdbdbd; font-size:30px; font-family:$montserrat; margin-right: 10px;
+               }
+            }
+        .p{ margin-left: 25px; }
+            &:last-child{ border-bottom:none; } 
+            
+               
+            
+        }
+        
+        }
+ 
+}
+
+.list{ display:flex;
+                .number { color:#bdbdbd; font-size:28px; font-family:$montserrat; margin-right: 10px;  }
+            
+            } 
+
+
+.webapp { display:flex; align-items:center; margin-top:100px; flex-wrap:wrap;
+
+    .app{ margin-bottom:50px; text-align: right;
+        img{ width:100%; max-width:414px;}
+    }
+}
+.gray-container {  background-color:#e6e6e6;  margin:0; padding:0;
+
+
+
+    .para-sector { display:flex; align-items:center; 
+        
+        .left{ 
+             img { width:100%;}
+        }
+        .right{ padding:0 10px;}
+    }
+    
+    
+    
+    
+    .step {min-height: 700px;  background-attachment: fixed; background-position: 32% 50%;  background-repeat: no-repeat;  margin: 0; position:relative; width: 625px;
+    height: 375px; padding:50px 0; background-size:625px 375px;
+}
+    
+    .step-1 { background-image: url("../images/step-1.png"); }
+ 
+    .step-3 { background-image: url("../images/step-3.png"); }
+
+    .step-5 { background-image: url("../images/step-5.png"); }
+
+    
+   
+
+}
+.gray-container-light {background-color:rgba(230,230,230,0.4);  margin:0; padding:0;
+
+
+
+    .para-sector { display:flex; align-items:center; 
+        
+        .left{ 
+             img { width:100%; }
+        }
+        .right{ padding:0 10px;}
+    }
+    
+    
+    
+    
+    .step { min-height: 700px; background-attachment: fixed; background-position: 32% 50%;  background-repeat: no-repeat;  margin: 0; position:relative; width: 625px;
+    height: 375px; padding:50px 0; background-size:625px 375px;
+}
+    
+
+    .step-2 { background-image: url("../images/step-2.png"); }
+
+    .step-4 { background-image: url("../images/step-4.png"); }
+
+    .step-6 { background-image: url("../images/step-6.png"); }
+    
+   
+
+}
+.mob-step {
+    img { width:100%; max-width:625px;}
+}
+
+
+
+ 
+
+.mobiapp { display:flex; align-items:center; margin-top:100px; flex-wrap:wrap; margin-bottom:100px;
+
+    .app{ margin-bottom:50px; text-align: right;
+        img{ width:100%; max-width:414px;}
+    }
+    .red{ color:#d7332f; font-weight:bold; font-size:20px; margin-top:20px; }
+    
+    .store { margin-top:20px; display: flex;
+            span{ margin-right:10px;
+                img { width:auto;}
+            }
+        
+        
+        }
+}
+.gray-container-parent {  background-color:#e6e6e6;  margin:0; padding:0;
+
+
+
+    .para-sector { display:flex; align-items:center; 
+        
+        .left{ 
+             img { width:100%;}
+        }
+        .right{ padding:0 10px;
+        
+        .store { margin-top:20px; display: flex;
+            span{ margin-right:10px;
+                img { width:auto;}
+            }
+        
+        
+        }
+        
+        }
+    }
+    
+    
+    
+    
+    .step {min-height: 700px;  background-attachment: fixed; background-position: 32% 50%;  background-repeat: no-repeat;  margin: 0; position:relative; width: 641px;
+    height: 595px; padding:50px 0; background-size:641px 595px;
+}
+    
+    .step-1 { background-image: url("../images/step-1-mob.gif"); }
+ 
+    .step-3 { background-image: url("../images/step-3-mob.gif"); }
+
+    .step-5 { background-image: url("../images/step-5-mob.gif"); }
+
+    
+   
+
+}
+.gray-container-light-parent {background-color:rgba(230,230,230,0.4);  margin:0; padding:0;
+
+
+
+    .para-sector { display:flex; align-items:center; 
+        
+        .left{ 
+             img { width:100%; }
+        }
+        .right{ padding:0 10px;}
+    }
+    
+    
+    
+    
+    .step { min-height: 700px;  background-attachment: fixed; background-position: 32% 50%;  background-repeat: no-repeat;  margin: 0; position:relative; width: 641px;
+    height: 595px; padding:50px 0; background-size:641px 595px;
+}
+    
+
+    .step-2 { background-image: url("../images/step-2-mob.gif"); }
+
+    .step-4 { background-image: url("../images/step-4-mob.gif"); }
+
+ 
+    
+   
+
+}
+.mob-step1 {
+    img { width:100%; max-width:641px;}
+}
+
+
+
+
+
+
+
+
+
